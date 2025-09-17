@@ -1,0 +1,11 @@
+Enabled,Type,Trigger,Payload1,Payload2
+Yes,TEXT,promo,¡Tenemos 2x1 en peluches hoy!,Aviso: preguntó por promo
+Yes,ALERT,villavo,Fuera de Villavicencio,Consultar Interrapidísimo
+Yes,FORM,datos,Nombre|Fecha/Hora|Dirección,¡Gracias! Con esto finalizamos tu pedido.
+Yes,TEXT,catálogo,"Aquí está nuestro catálogo: peluches, flores eternas y combos. ¿Qué te gustaría ver?",Cliente pidió catálogo
+Yes,FORM,reclamo,Nombre|Pedido|Detalle,Gracias por contarnos. Daremos prioridad a tu caso.
+Yes,FORM,entregas hoy,Nombre|Barrio|Horario,¡Perfecto! Revisamos disponibilidad y te confirmamos.
+Yes,TEXT,cumpleaños,🎂 Tenemos globos y combos especiales de cumpleaños. ¿Qué presupuesto tienes?,Cliente interés cumpleaños
+Yes,TEXT,aniversario,❤️ Ideas top para aniversario: peluche + flores eternas + tarjeta. ¿Quieres ver opciones?,Cliente interés aniversario
+Yes,TEXT,navidad,🎄 Colección navideña disponible por tiempo limitado. ¡Aprovecha!,Cliente interés navidad
+Yes,ALERT,mayoristas,Mayoristas,Cliente pidió info mayoristas
